@@ -1,0 +1,900 @@
+Term	Curated	Main Class	Sub Class	Type	Classification
+AAC(6')-Ic	AAC(6')-Ic	Aminoglycoside			
+AAC(6')-32	AAC(6')-32	Aminoglycoside			
+AAC(6')-Ib8	AAC(6')-Ib8	Aminoglycoside			
+AAC(1)	AAC(1)	Aminoglycoside			
+AAC(3)-Ia	AAC(3)-Ia	Aminoglycoside			
+AAC(3)-Ib	AAC(3)-Ib	Aminoglycoside			
+AAC(3)-Id	AAC(3)-Id	Aminoglycoside			
+AAC(3)-IIa	AAC(3)-IIa	Aminoglycoside			
+AAC(3)-IIb	AAC(3)-IIb	Aminoglycoside			
+AAC(3)-IIc	AAC(3)-IIc	Aminoglycoside			
+AAC(3)-IV	AAC(3)-IV	Aminoglycoside			
+AAC(3)-VIa	AAC(3)-VIa	Aminoglycoside			
+AAC(6')-29b	AAC(6')-29b	Aminoglycoside			
+AAC(6')-30/AAC(6')-Ib' fusion protein	AAC(6')-30/AAC(6')-Ib' fusion protein	Aminoglycoside			
+AAC(6')-31	AAC(6')-31	Aminoglycoside			
+AAC(6')-33	AAC(6')-33	Aminoglycoside			
+AAC(6')-Ia	AAC(6')-Ia	Aminoglycoside			
+AAC(6')-Iaf	AAC(6')-Iaf	Aminoglycoside			
+AAC(6')-Ib	AAC(6')-Ib	Aminoglycoside			
+AAC(6')-Ib'	AAC(6')-Ib'	Aminoglycoside			
+AAC(6')-Ib10	AAC(6')-Ib10	Aminoglycoside			
+AAC(6')-Ib3	AAC(6')-Ib3	Aminoglycoside			
+AAC(6')-Ib7	AAC(6')-Ib8	Aminoglycoside			
+AAC(6')-Ib9	AAC(6')-Ib9	Aminoglycoside			
+AAC(6')-Ib-cr	AAC(6')-Ib-cr	Aminoglycoside			
+AAC(6')-Ie-APH(2'')-Ia	AAC(6')-Ie-APH(2'')-Ia	Aminoglycoside			
+AAC(6')-IIa	AAC(6')-IIa	Aminoglycoside			
+AAC(6')-IIc	AAC(6')-IIc	Aminoglycoside			
+AAC(6')-IId	AAC(6')-Iid	Aminoglycoside			
+AAC(6')-Ip	AAC(6')-Ip	Aminoglycoside			
+AAC(6')-Iq	AAC(6')-Iq	Aminoglycoside			
+aad(6)	aad(6)	Aminoglycoside			
+aadA	aadA	Aminoglycoside			
+aadA11	aadA11	Aminoglycoside			
+aadA12	aadA12	Aminoglycoside			
+aadA13	aadA13	Aminoglycoside			
+aadA15	aadA15	Aminoglycoside			
+aadA16	aadA16	Aminoglycoside			
+aadA17	aadA17	Aminoglycoside			
+aadA2	aadA2	Aminoglycoside			
+aadA23	aadA23	Aminoglycoside			
+aadA24	aadA24	Aminoglycoside			
+aadA3	aadA3	Aminoglycoside			
+aadA5	aadA5	Aminoglycoside			
+aadA7	aadA7	Aminoglycoside			
+aadA8	aadA8	Aminoglycoside			
+abcA	abcA	Multidrug Transporters and Regulators			
+abeM	abeM	Multidrug Transporters and Regulators			
+abeS	abeS	Multidrug Transporters and Regulators			
+ACC-1	ACC-1	Beta-lactam			
+acrA	acrA	Multidrug Transporters and Regulators			
+Enterobacter cloacae acrA	acrA (E. cloacae)	Multidrug Transporters and Regulators			
+Escherichia coli acrA	acrA (E. coli)	Multidrug Transporters and Regulators			
+Klebsiella pneumoniae acrA	acrA (K. pna)	Multidrug Transporters and Regulators			
+acrB	acrB	Multidrug Transporters and Regulators			
+acrD	acrD	Multidrug Transporters and Regulators			
+AcrE	acrE	Multidrug Transporters and Regulators			
+AcrF	acrF	Multidrug Transporters and Regulators			
+Klebsiella pneumoniae acrR with mutation conferring multidrug antibiotic resistance	acrR (K pna)	Multidrug Transporters and Regulators			
+Klebsiella pneumoniae acrR with mutation conferring multidrug antibiotic resistance-V165I	acrR (V165I)	Multidrug Transporters and Regulators			
+Klebsiella pneumoniae acrR with mutation conferring multidrug antibiotic resistance-Y114F	acrR (Y114F)	Multidrug Transporters and Regulators			
+AcrS	acrS	Multidrug Transporters and Regulators			
+ACT-15	ACT-15	Beta-lactam			
+ACT-16	ACT-16	Beta-lactam			
+ACT-17	ACT-17	Beta-lactam			
+ACT-27	ACT-27	Beta-lactam			
+ACT-20	ACT-20	Beta-lactam			
+ACT-32	ACT-32	Beta-lactam			
+ACT-7	ACT-7	Beta-lactam			
+ADC-2	ADC-2	Beta-lactam			
+adeA	adeA	Multidrug Transporters and Regulators			
+adeB	adeB	Multidrug Transporters and Regulators			
+adeC	adeC	Multidrug Transporters and Regulators			
+adeF	adeF	Multidrug Transporters and Regulators			
+adeG	adeG	Multidrug Transporters and Regulators			
+adeH	adeH	Multidrug Transporters and Regulators			
+adeI	adeI	Multidrug Transporters and Regulators			
+adeJ	adeJ	Multidrug Transporters and Regulators			
+adeK	adeK	Multidrug Transporters and Regulators			
+adeL	adeL	Multidrug Transporters and Regulators			
+adeN	adeN	Multidrug Transporters and Regulators			
+adeR	adeR	Multidrug Transporters and Regulators			
+adeS	adeS	Multidrug Transporters and Regulators			
+ACT-22	ACT-22	Beta-lactam			
+ACT-23	ACT-23	Beta-lactam			
+ANT(3'')-Ii-AAC(6')-IId fusion protein	ANT(3'')-Ii-AAC(6')-IId fusion protein	Aminoglycoside			
+APH(3')-Ib	APH(3')-Ib	Aminoglycoside			
+AER-1	AER-1	Beta-lactam			
+ampc	ampC	Beta-lactam			
+amrb	amrB	Multidrug Transporters and Regulators			
+ANT(2'')-Ia	ANT(2'')-Ia	Aminoglycoside			
+ANT(3'')-IIa	ANT(3'')-IIa	Aminoglycoside			
+ANT(3'')-IIb	ANT(3'')-IIb	Aminoglycoside			
+ANT(4')-Ib	ANT(4')-Ib	Amingolycosides			
+ANT(6)-Ia	ANT(6)-Ia	Aminoglycoside			
+ANT(9)-Ia	ANT(9)-Ia	Aminoglycoside			
+APH(2'')-IIa	APH(2'')-IIa	Aminoglycoside			
+APH(3')-Ia	APH(3')-Ia	Aminoglycoside			
+APH(3'')-Ib	APH(3'')-Ib	Aminoglycoside			
+APH(3')-IIa	APH(3')-IIa	Aminoglycoside			
+APH(3')-IIIa	APH(3')-IIIa	Aminoglycoside			
+APH(3')-VI	APH(3')-VI	Aminoglycoside			
+APH(3')-VIa	APH(3')-VIa	Aminoglycoside			
+APH(4)-Ia	APH(4)-Ia	Aminoglycoside			
+APH(6)-Id	APH(6)-Id	Aminoglycoside			
+arlR	arlR	Multidrug Transporters and Regulators			
+arlS	arlS	Multidrug Transporters and Regulators			
+armA	armA	Aminoglycoside			
+arnA	arnA	Polymixin			
+arr-2	arr-2	Rifampicin			
+arr-3	arr-3	Rifampicin			
+arr-5	arr-5	Rifampicin			
+bacA	bacA	Bacitracin			
+baeR	baeR	Multidrug Transporters and Regulators			
+baeS	baeS	Multidrug Transporters and Regulators			
+PC1 beta-lactamase (blaZ)	blaZ	Beta-lactam			
+determinant of bleomycin resistance	BRP	Bleomycin			
+CARB-16	CARB-16	Beta-lactam	Class A Carbapenemase		
+CARB-3	CARB-3	Beta-lactam	Class A Carbapenemase		
+CARB-4	CARB-4	Beta-lactam	Class A Carbapenemase		
+cat	cat	Phenicol			
+catB10	catB10	Phenicol			
+catB2	catB2	Phenicol			
+catB3	catB3	Phenicol			
+catB8	catB8	Phenicol			
+catI	catI	Phenicol			
+catII	catII	Phenicol			
+cdeA	cdeA	Multidrug Transporters and Regulators			
+ceoB	ceoB	Multidrug Transporters and Regulators			
+Enterococcus faecium cls conferring resistance to daptomycin	cls (E. faecium)	Lipopeptide			
+cmeA	cmeA	Multidrug Transporters and Regulators			
+cmeB	cmeB	Multidrug Transporters and Regulators			
+cmx	cmx	Multidrug Transporters and Regulators			
+CMY-108	CMY-108	Beta-lactam			
+CMY-13	CMY-13	Beta-lactam			
+CMY-16	CMY-16	Beta-lactam			
+CMY-2	CMY-2	Beta-lactam			
+CMY-30	CMY-30	Beta-lactam			
+CMY-4	CMY-4	Beta-lactam			
+CMY-42	CMY-42	Beta-lactam			
+CMY-47	CMY-47	Beta-lactam			
+CMY-48	CMY-48	Beta-lactam			
+CMY-6	CMY-6	Beta-lactam			
+CMY-63	CMY-63	Beta-lactam			
+CMY-70	CMY-70	Beta-lactam			
+CMY-79	CMY-79	Beta-lactam			
+CMY-94	CMY-94	Beta-lactam			
+cphA3	cphA3	Beta-lactam	Class B Carbapenemase		
+cphA2	cphA2	Beta-lactam	Class B Carbapenemase		
+cphA6	cphA6	Beta-lactam	Class B Carbapenemase		
+cphA5	cphA5	Beta-lactam	Class B Carbapenemase		
+cphA7	cphA7	Beta-lactam	Class B Carbapenemase		
+cphA4	cphA4	Beta-lactam	Class B Carbapenemase		
+cphA8	cphA8	Beta-lactam	Class B Carbapenemase		
+cpxA	cpxA	Multidrug Transporters and Regulators			
+cpxr	cpxR	Multidrug Transporters and Regulators			
+CRP	CRP	Multidrug Transporters and Regulators			
+CTX-M-1	CTX-M-1	Beta-lactam			
+CTX-M-116	CTX-M-116	Beta-lactam			
+CTX-M-12	CTX-M-12	Beta-lactam			
+CTX-M-134	CTX-M-134	Beta-lactam			
+CTX-M-139	CTX-M-139	Beta-lactam			
+CTX-M-14	CTX-M-14	Beta-lactam			
+CTX-M-15	CTX-M-15	Beta-lactam			
+CTX-M-156	CTX-M-156	Beta-lactam			
+CTX-M-64	CTX-M-64	Beta-lactam			
+CTX-M-90	CTX-M-90	Beta-lactam			
+CTX-M-96	CTX-M-96	Beta-lactam			
+CTX-M-2	CTX-M-2	Beta-lactam			
+CTX-M-24	CTX-M-24	Beta-lactam			
+CTX-M-26	CTX-M-26	Beta-lactam			
+CTX-M-27	CTX-M-27	Beta-lactam			
+CTX-M-3	CTX-M-3	Beta-lactam			
+CTX-M-40	CTX-M-40	Beta-lactam			
+CTX-M-55	CTX-M-55	Beta-lactam			
+CTX-M-59	CTX-M-59	Beta-lactam			
+CTX-M-61	CTX-M-61	Beta-lactam			
+CTX-M-63	CTX-M-63	Beta-lactam			
+CTX-M-65	CTX-M-65	Beta-lactam			
+CTX-M-71	CTX-M-71	Beta-lactam			
+CTX-M-8	CTX-M-8	Beta-lactam			
+CTX-M-9	CTX-M-9	Beta-lactam			
+desR	desR	Macrolide			
+dfrA10	dfrA10	Trimethoprim			
+dfrA12	dfrA12	Trimethoprim			
+dfrA13	dfrA13	Trimethoprim			
+dfrA14	dfrA14	Trimethoprim			
+dfrA15	dfrA15	Trimethoprim			
+dfrA16	dfrA16	Trimethoprim			
+dfrA17	dfrA17	Trimethoprim			
+dfrA19	dfrA19	Trimethoprim			
+dfrA21	dfrA21	Trimethoprim			
+dfrA22	dfrA22	Trimethoprim			
+dfrA23	dfrA23	Trimethoprim			
+dfrA25	dfrA25	Trimethoprim			
+dfrA26	dfrA26	Trimethoprim			
+dfrA5	dfrA5	Trimethoprim			
+dfrA7	dfrA7	Trimethoprim			
+dfrA8	dfrA8	Trimethoprim			
+dfrB1	dfrB1	Trimethoprim			
+dfrB3	dfrB3	Trimethoprim			
+dfrC	dfrc	Trimethoprim			
+dfrE	dfrE	Trimethoprim			
+dfrF	dfrF	Trimethoprim			
+DHA-1	DHA-1	Beta-lactam			
+DHA-7	DHA-7	Beta-lactam			
+DIM-1 beta-lactamase	DIM-1	Beta-lactam			
+efrA	efrA	Multidrug Transporters and Regulators			
+efrB	efrB	Multidrug Transporters and Regulators			
+Escherichia coli EF-Tu mutants conferring resistance to kirromycin	EF-Tu (E. coli)	Elfamycin			
+Streptomyces cinnamoneus EF-Tu mutants conferring resistance to elfamycin	EF-Tu (S. cinnamoneus)	Elfamycin			
+Mycobacterium tuberculosis mutant embB conferring resistance to ethambutol	embB (M. tuberculosis)	Ethambutol 			
+Mycobacterium tuberculosis mutant embC conferring resistance to ethambutol	embC (M. tuberculosis)	Ethambutol 			
+emeA	emeA	Multidrug Transporters and Regulators			
+emrA	emrA	Multidrug Transporters and Regulators			
+emrB	emrB	Multidrug Transporters and Regulators			
+emrD	emrD	Multidrug Transporters and Regulators			
+Escherichia coli emrE	emrE (E. coli)	Multidrug Transporters and Regulators			
+emrK	emrK	Multidrug Transporters and Regulators			
+emrR	emrR	Multidrug Transporters and Regulators			
+emrY	emrY	Multidrug Transporters and Regulators			
+ereA	ereA	Macrolide			
+EreA2	ereA2	Macrolide			
+EreB	ereB	Macrolide			
+Erm(42)	erm42	Macrolide			
+ErmA	ermA	Macrolide			
+ErmB	ermB	Macrolide			
+ErmC	ermC	Macrolide			
+ErmT	ermT	Macrolide			
+ErmX	ermX	Macrolide			
+Mycobacterium tuberculosis ethA with mutation conferring resistance to ethionamide	ethA (M. tuberculosis)	Ethionamide			
+evgA	evgA	Multidrug Transporters and Regulators			
+evgS	evgS	Multidrug Transporters and Regulators			
+antibiotic resistant fabI	fabI	Triclosan			
+farB	farB	Multidrug Transporters and Regulators			
+fexa	fexA	Multidrug Transporters and Regulators			
+floR	floR	Phenicol			
+FosA2	fosA2	Fosfomycin			
+FosA3	fosA3	Fosfomycin			
+FosA4	fosA4	Fosfomycin			
+FosA5	fosA5	Fosfomycin			
+FOX-10	FOX-10	Beta-lactam			
+FOX-4	FOX-4	Beta-lactam			
+FOX-5	FOX-5	Beta-lactam			
+FOX-7	FOX-7	Beta-lactam			
+FOX-8	FOX-8	Beta-lactam			
+gadE	gadE	Multidrug Transporters and Regulators			
+gadW	gadW	Multidrug Transporters and Regulators			
+gadX	gadX	Multidrug Transporters and Regulators			
+GES-11	GES-11	Beta-lactam	Class A Carbapenemase		
+GES-2	GES-2	Beta-lactam	Class A Carbapenemase		
+Escherichia coli folP with mutation conferring resistance to sulfonamides	folP (E.coli)	Sulfonamide			
+GES-5	GES-5	Beta-lactam	Class A Carbapenemase		
+Escherichia coli GlpT with mutation conferring resistance to fosfomycin	glpT (E. coli)	Fosfomycin			
+Escherichia coli GlpT with mutation conferring resistance to fosfomycin-E448K	GlpT (E48K)	Fosfomycin			
+Pseudomonas aeruginosa gyrA and parC conferring resistance to fluoroquinolone	gyrA & parC (P. aeruginosa)	Fluoroquinolone			
+Propionibacterium acnes gyrA conferring resistance to fluoroquinolones-D105G	gyrA (D105G)	Fluoroquinolones			
+Neisseria gonorrhoeae gyrA conferring resistance to fluoroquinolones-D95N	gyrA (D95N)	Fluoroquinolones			
+Escherichia coli gyrA conferring resistance to fluoroquinolones	gyrA (E. coli)	Fluoroquinolone			
+Staphylococcus aureus gyrA conferring resistance to fluoroquinolones-E88A	gyrA (E88A)	Fluoroquinolones			
+Haemophilus parainfluenzae gyrA conferring resistance to fluoroquinolones	gyrA (H. parainfluenzae)	Fluoroquinolone			
+Mycobacterium tuberculosis gyrA conferring resistance to fluoroquinolones	gyrA (M. tuberculosis)	Fluoroquinolone			
+Propionibacterium acnes gyrA conferring resistance to fluoroquinolones	gyrA (P. acnes)	Fluoroquinolone			
+Pseudomonas aeruginosa gyrA conferring resistance to fluoroquinolones	gyrA (P. aeruginosa)	Fluoroquinolone			
+Staphylococcus aureus gyrA conferring resistance to fluoroquinolones	gyrA (S. aureus)	Fluoroquinolone			
+Salmonella enterica gyrA conferring resistance to fluoroquinolones	gyrA (S. enterica)	Fluoroquinolone			
+Propionibacterium acnes gyrA conferring resistance to fluoroquinolones-S101L	gyrA (S101L)	Fluoroquinolones			
+Mycobacterium tuberculosis gyrB mutant conferring resistance to fluoroquinolone	gyrB  (M. tuberculosis)	Fluoroquinolone			
+Salmonella serovars gyrB conferring resistance to fluoroquinolone-E466D	gyrB (E466D)	Fluoroquinolone			
+Mycobacterium leprae gyrB conferring resistance to fluoroquinolone	gyrB (M. leprae	Fluoroquinolone			
+Morganella morganii gyrB conferring resistance to fluoroquinolone	gyrB (M. morganii)	Fluoroquinolone			
+Staphylococcus aureus gyrB conferring resistance to fluoroquinolones	gyrB (S. aureus)	Fluoroquinolone			
+Salmonella serovars gyrB conferring resistance to fluoroquinolone	gyrB (S. enterica)	Fluoroquinolone			
+hmrM	hmrM	Multidrug Transporters and Regulators			
+H-NS	H-NS	Multidrug Transporters and Regulators			
+hp1181	hp1181	Multidrug Transporters and Regulators			
+Bifidobacteria intrinsic ileS conferring resistance to mupirocin	ileS (B. intrinsic)	Misc. Antobiotic			
+IMP-1	IMP-1	Beta-lactam	Class B Carbapenemase		
+IMP-27	IMP-27	Beta-lactam			
+IMP-14	IMP-14	Beta-lactam	Class B Carbapenemase		
+IMP-4	IMP-4	Beta-lactam	Class B Carbapenemase		
+IMP-47	IMP-47	Beta-lactam	Class B Carbapenemase		
+IMP-6	IMP-6	Beta-lactam	Class B Carbapenemase		
+Mycobacterium tuberculosis katG mutations conferring resistance to isoniazid-A139V	katG (A139V)	Isoniazid			
+Mycobacterium tuberculosis katG mutations conferring resistance to isoniazid-A243S	katG (A243S)	Isoniazid			
+Mycobacterium tuberculosis katG mutations conferring resistance to isoniazid	katG (M. tuberculosis)	Isoniazid			
+Mycobacterium tuberculosis katG mutations conferring resistance to isoniazid-S140N	katG (S140N)	Isoniazid			
+Mycobacterium tuberculosis ndh mutant conferring resistance to isoniazid	ndh (M. tuberculosis)	Isoniazid			
+kdpE	kdpE	Multidrug Transporters and Regulators			
+KPC-2	KPC-2	Beta-lactam	Class A Carbapenemase		
+KPC-3	KPC-3	Beta-lactam	Class A Carbapenemase		
+KPC-4	KPC-4	Beta-lactam	Class A Carbapenemase		
+KPC-5	KPC-5	Beta-lactam	Class A Carbapenemase		
+KPC-6	KPC-6	Beta-lactam	Class A Carbapenemase		
+KPC-7	KPC-7	Beta-lactam	Class A Carbapenemase		
+KPC-12	KPC-12	Beta-lactam	Class A Carbapenemase		
+KPC-8	KPC-8	Beta-lactam	Class A Carbapenemase		
+LEN-16	LEN-16	Beta-lactam			
+LEN-18	LEN-18	Beta-lactam			
+LEN-20	LEN-20	Beta-lactam			
+LEN-22	LEN-22	Beta-lactam			
+LEN-24	LEN-24	Beta-lactam			
+LEN-26	LEN-26	Beta-lactam			
+LEN-2	LEN-2	Beta-lactam			
+leuO	leuO	Multidrug Transporters and Regulators			
+linA	linA	Lincosamide			
+linG	linG	Lincosamide			
+lmrB	lmrB	Multidrug Transporters and Regulators			
+lmrC	lmrC	Multidrug Transporters and Regulators			
+lmrD	lmrD	Multidrug Transporters and Regulators			
+lnuA	lnuA	Lincosamide			
+LRA-13	LRA-13	Beta-lactam			
+lsaA	lsaA	Multidrug Transporters and Regulators			
+macA	macA	Multidrug Transporters and Regulators			
+macB	macB	Multidrug Transporters and Regulators			
+marA	marA	Multidrug Transporters and Regulators			
+MCR-1	MCR-1	Colistin			
+MdfA	mdfA	Multidrug Transporters and Regulators			
+mdsA	mdsA	Multidrug Transporters and Regulators			
+mdsB	mdsB	Multidrug Transporters and Regulators			
+mdsC	mdsC	Multidrug Transporters and Regulators			
+mdtA	mdtA	Multidrug Transporters and Regulators			
+mdtB	mdtB	Multidrug Transporters and Regulators			
+mdtC	mdtC	Multidrug Transporters and Regulators			
+mdtD	mdtD	Multidrug Transporters and Regulators			
+mdtE	mdtE	Multidrug Transporters and Regulators			
+mdtF	mdtF	Multidrug Transporters and Regulators			
+mdtG	mdtG	Multidrug Transporters and Regulators			
+mdtH	mdtH	Multidrug Transporters and Regulators			
+MdtK	mdtK	Multidrug Transporters and Regulators			
+mdtL	mdtL	Multidrug Transporters and Regulators			
+mdtM	mdtM	Multidrug Transporters and Regulators			
+mdtN	mdtN	Multidrug Transporters and Regulators			
+mdtO	mdtO	Multidrug Transporters and Regulators			
+mdtP	mdtP	Multidrug Transporters and Regulators			
+mecA	mecA	Beta-lactam			
+mecI	mecI	Multidrug Transporters and Regulators			
+mecR1	mecR1	Beta-lactam			
+mef(B)	mef(B)	Multidrug Transporters and Regulators			
+mefB	mefB	Multidrug Transporters and Regulators			
+mel	mel	Macrolide			
+mepA	mepA	Multidrug Transporters and Regulators			
+mepR	mepR	Tetracycline			
+Mexa	mexA	Multidrug Transporters and Regulators			
+MexA	mexA	Multidrug Transporters and Regulators			
+MexB	mexB	Multidrug Transporters and Regulators			
+MexC	mexC	Multidrug Transporters and Regulators			
+MexD	mexD	Multidrug Transporters and Regulators			
+MexE	mexE	Multidrug Transporters and Regulators			
+MexF	mexF	Multidrug Transporters and Regulators			
+MexH	mexH	Multidrug Transporters and Regulators			
+MexI	mexI	Multidrug Transporters and Regulators			
+MexJ	mexJ	Multidrug Transporters and Regulators			
+MexK	mexK	Multidrug Transporters and Regulators			
+mexN	mexN	Multidrug Transporters and Regulators			
+mexq	mexQ	Multidrug Transporters and Regulators			
+mexS	mexS	Multidrug Transporters and Regulators			
+mext	mexT	Multidrug Transporters and Regulators			
+MexV	mexV	Multidrug Transporters and Regulators			
+MexW	mexW	Multidrug Transporters and Regulators			
+mfd	mfd	Fluoroquinolone			
+mfpA	mfpA	Fluoroquinolone			
+mgrA	mgrA	Multidrug Transporters and Regulators			
+mphA	mphA	Macrolide			
+mphC	mphC	Macrolide			
+mphD	mphD	Macrolide			
+mprf	mprF	Multidrug Transporters and Regulators			
+Bacillus subtilis mprF	mprF (B. subtilis)	Multidrug Transporters and Regulators			
+Listeria monocytogenes mprF	mprF (L. monocytogenes)	Multidrug Transporters and Regulators			
+Mrx	mrx	Macrolide			
+msbA	msbA	Multidrug Transporters and Regulators			
+msrB	msrB	Multidrug Transporters and Regulators			
+msrc	msrC	Multidrug Transporters and Regulators			
+msrC	msrC	Multidrug Transporters and Regulators			
+msrE	msrE	Multidrug Transporters and Regulators			
+Mycobacterium tuberculosis intrinsic murA conferring resistance to fosfomycin	murA  (M. tuberculosis)	Fosfomycin			
+Chlamydia trachomatis intrinsic murA conferring resistance to fosfomycin	murA (C. trachomatis)	Fosfomycin			
+MuxA	muxA	Multidrug Transporters and Regulators			
+MuxB	muxB	Multidrug Transporters and Regulators			
+MuxC	muxC	Multidrug Transporters and Regulators			
+NDM-1	NDM-1	Beta-lactam	Class B Carbapenemase		
+NDM-4	NDM-4	Beta-lactam	Class B Carbapenemase		
+NDM-6	NDM-6	Beta-lactam	Class B Carbapenemase		
+NDM-9	NDM-9	Beta-lactam	Class B Carbapenemase		
+NDM-5	NDM-5	Beta-lactam	Class B Carbapenemase		
+NDM-7	NDM-7	Beta-lactam	Class B Carbapenemase		
+Escherichia coli nfsA mutations conferring resistance to nitrofurantoin	nfsA (E. coli)	Nitrofurantoin			
+Escherichia coli nfsA mutations conferring resistance to nitrofurantoin-R203C	nfsA (R203C)	Nitrofurantoin			
+Escherichia coli nfsA mutations conferring resistance to nitrofurantoin-S33R	nfsA (S33R)	Nitrofurantoin			
+NmcR	nmcR	Multidrug Transporters and Regulators			
+norA	norA	Multidrug Transporters and Regulators			
+norB	norB	Multidrug Transporters and Regulators			
+novA	novA	Multidrug Transporters and Regulators			
+OKP-A-6	OKP-A-6	Beta-lactam			
+OKP-A-11	OKP-A-11	Beta-lactam			
+OKP-B-19	OKP-B-19	Beta-lactam			
+OKP-B-9	OKP-B-9	Beta-lactam			
+OKP-A-2	OKP-A-2	Beta-lactam			
+OKP-A-4	OKP-A-4	Beta-lactam			
+OKP-A-8	OKP-A-8	Beta-lactam			
+OKP-B-17	OKP-B-17	Beta-lactam			
+SHV-18	SHV-18	Beta-lactam			
+OKP-A-12	OKP-A-12	Beta-lactam			
+OKP-A-5	OKP-A-5	Beta-lactam			
+OKP-B-1	OKP-B-1	Beta-lactam			
+OKP-B-13	OKP-B-13	Beta-lactam			
+OKP-B-2	OKP-B-2	Beta-lactam			
+OKP-B-3	OKP-B-3	Beta-lactam			
+OKP-B-5	OKP-B-5	Beta-lactam			
+OKP-B-6	OKP-B-6	Beta-lactam			
+OKP-B-7	OKP-B-7	Beta-lactam			
+OKP-B-8	OKP-B-8	Beta-lactam			
+OKP-A-3	OKP-A-3	Beta-lactam			
+OpmD	opmD	Multidrug Transporters and Regulators			
+OprJ	oprJ	Multidrug Transporters and Regulators			
+OprM	oprM	Multidrug Transporters and Regulators			
+oqxA	oqxA	Multidrug Transporters and Regulators			
+oqxB	oqxB	Multidrug Transporters and Regulators			
+OXA-1	OXA-1	Beta-lactam			
+OXA-10	OXA-10	Beta-lactam			
+OXA-100	OXA-100	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-102	OXA-102	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-23-like
+OXA-103	OXA-103	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-23-like
+OXA-104	OXA-104	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-105	OXA-105	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-23-like
+OXA-106	OXA-106	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-107	OXA-107	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-108	OXA-108	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-109	OXA-109	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-110	OXA-110	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-111	OXA-111	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-112	OXA-112	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-113	OXA-113	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-115	OXA-115	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-116	OXA-116	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-117	OXA-117	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-12	OXA-12	Beta-lactam			
+OXA-120	OXA-120	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-121	OXA-121	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-122	OXA-122	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-123	OXA-123	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-124	OXA-124	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-125	OXA-125	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-126	OXA-126	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-127	OXA-127	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-128	OXA-128	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-130	OXA-130	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-131	OXA-131	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-132	OXA-132	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-133	OXA-133	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-23-like
+OXA-134	OXA-134	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-23-like
+OXA-134a	OXA-134a	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-134a-like
+OXA-138	OXA-138	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-139	OXA-139	Beta-lactam	Class D Carbapenemase		OXA-40-like
+OXA-143	OXA-143	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-143-like
+OXA-144	OXA-144	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-146	OXA-146	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-23-like
+OXA-148	OXA-148	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-149	OXA-149	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-150	OXA-150	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-160	OXA-160	Beta-lactam	Class D Carbapenemase		OXA-40-like
+OXA-162	OXA-162	Beta-lactam	Class D Carbapenemase		OXA-48-like
+OXA-163	OXA-163	Beta-lactam	Class D Carbapenemase		OXA-48-like
+OXA-164	OXA-164	Beta-lactam	Class D Carbapenemase		OXA-58-like
+OXA-165	OXA-165	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-23-like
+OXA-166	OXA-166	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-23-like
+OXA-167	OXA-167	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-23-like
+OXA-168	OXA-168	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-23-like
+OXA-169	OXA-169	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-23-like
+OXA-170	OXA-170	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-23-like
+OXA-171	OXA-171	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-23-like
+OXA-172	OXA-172	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-173	OXA-173	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-174	OXA-174	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-175	OXA-175	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-176	OXA-176	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-177	OXA-177	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-178	OXA-178	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-179	OXA-179	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-180	OXA-180	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-181	OXA-181	Beta-lactam			
+OXA-182	OXA-182	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-143-like
+OXA-186	OXA-186	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-134a-like
+OXA-187	OXA-187	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-134a-like
+OXA-188	OXA-188	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-134a-like
+OXA-189	OXA-189	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-134a-like
+OXA-190	OXA-190	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-134a-like
+OXA-191	OXA-191	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-134a-like
+OXA-194	OXA-194	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-195	OXA-195	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-196	OXA-196	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-197	OXA-197	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-2	OXA-2	Beta-lactam			
+OXA-20	OXA-20	Beta-lactam			
+OXA-200	OXA-200	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-201	OXA-201	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-202	OXA-202	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-203	OXA-203	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-204	OXA-204	Beta-lactam			
+OXA-206	OXA-206	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-207	OXA-207	Beta-lactam	Class D Carbapenemase		OXA-40-like
+OXA-208	OXA-208	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-211	OXA-211	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-211-like
+OXA-212	OXA-212	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-211-like
+OXA-213	OXA-213	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-213-like
+OXA-214	OXA-214	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-214-like
+OXA-215	OXA-215	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-214-like
+OXA-216	OXA-216	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-217	OXA-217	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-219	OXA-219	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-223	OXA-223	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-225	OXA-225	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-23-like
+OXA-228	OXA-228	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-229-like
+OXA-229	OXA-229	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-229-like
+OXA-23	OXA-23	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-23-like
+OXA-230	OXA-230	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-229-like
+OXA-231	OXA-231	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-143-like
+OXA-232	OXA-232	Beta-lactam			
+OXA-235	OXA-235	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-235-like
+OXA-236	OXA-236	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-235-like
+OXA-237	OXA-237	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-235-like
+OXA-239	OXA-239	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-23-like
+OXA-24	OXA-24	Beta-lactam	Class D Carbapenemase		OXA-40-like
+OXA-241	OXA-241	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-242	OXA-242	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-244	OXA-244	Beta-lactam	Class D Carbapenemase		OXA-48-like
+OXA-245	OXA-245	Beta-lactam	Class D Carbapenemase		OXA-48-like
+OXA-247	OXA-247	Beta-lactam	Class D Carbapenemase		OXA-48-like
+OXA-248	OXA-248	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-249	OXA-249	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-25	OXA-25	Beta-lactam	Class D Carbapenemase		OXA-40-like
+OXA-250	OXA-250	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-253	OXA-253	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-143-like
+OXA-254	OXA-254	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-255	OXA-255	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-143-like
+OXA-257	OXA-257	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-229-like
+OXA-26	OXA-26	Beta-lactam	Class D Carbapenemase		OXA-40-like
+OXA-27	OXA-27	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-23-like
+OXA-278	OXA-278	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-235-like
+OXA-309	OXA-309	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-211-like
+OXA-312	OXA-312	Beta-lactam			
+OXA-314	OXA-314	Beta-lactam			
+OXA-317	OXA-317	Beta-lactam			
+OXA-338	OXA-338	Beta-lactam			
+OXA-35	OXA-35	Beta-lactam			
+OXA-365	OXA-365	Beta-lactam			
+OXA-366	OXA-366	Beta-lactam			
+OXA-371	OXA-371	Beta-lactam			
+OXA-374	OXA-374	Beta-lactam			
+OXA-376	OXA-376	Beta-lactam			
+OXA-378	OXA-378	Beta-lactam			
+OXA-383	OXA-383	Beta-lactam			
+OXA-40	OXA-40	Beta-lactam	Class D Carbapenemase		OXA-40-like
+OXA-424	OXA-424	Beta-lactam			
+OXA-425	OXA-425	Beta-lactam			
+OXA-426	OXA-426	Beta-lactam			
+OXA-47	OXA-47	Beta-lactam			
+OXA-48	OXA-48	Beta-lactam	Class D Carbapenemase		OXA-48-like
+OXA-48b	OXA-48b	Beta-lactam	Class D Carbapenemase		OXA-48-like
+OXA-49	OXA-49	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-23-like
+OXA-499	OXA-499	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-143-like
+OXA-50	OXA-50	Beta-lactam	Class D Carbapenemase		OXA-50-like
+OXA-50a	OXA-50a	Beta-lactam	Class D Carbapenemase		OXA-50-like
+OXA-50b	OXA-50b	Beta-lactam	Class D Carbapenemase		OXA-50-like
+OXA-50c	OXA-50c	Beta-lactam	Class D Carbapenemase		OXA-50-like
+OXA-50d	OXA-50d	Beta-lactam	Class D Carbapenemase		OXA-50-like
+OXA-51	OXA-51	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-54	OXA-54	Beta-lactam	Class D Carbapenemase		OXA-48-like
+OXA-55	OXA-55	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-55-like
+OXA-58	OXA-58	Beta-lactam	Class D Carbapenemase		OXA-58-like
+OXA-60	OXA-60	Beta-lactam	Class D Carbapenemase		OXA-60-like
+OXA-60a	OXA-60a	Beta-lactam	Class D Carbapenemase		OXA-60-like
+OXA-60b	OXA-60b	Beta-lactam	Class D Carbapenemase		OXA-60-like
+OXA-60c	OXA-60c	Beta-lactam	Class D Carbapenemase		OXA-60-like
+OXA-60d	OXA-60d	Beta-lactam	Class D Carbapenemase		OXA-60-like
+OXA-62	OXA-62	Beta-lactam	Class D Carbapenemase		OXA-62-like
+OXA-64	OXA-64	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-65	OXA-65	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-66	OXA-66	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-67	OXA-67	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-68	OXA-68	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-69	OXA-69	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-70	OXA-70	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-71	OXA-71	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-72	OXA-72	Beta-lactam	Class D Carbapenemase		OXA-40-like
+OXA-73	OXA-73	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-23-like
+OXA-75	OXA-75	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-76	OXA-76	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-77	OXA-77	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-78	OXA-78	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-79	OXA-79	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-80	OXA-80	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-82	OXA-82	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-83	OXA-83	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-84	OXA-84	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-86	OXA-86	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-87	OXA-87	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-88	OXA-88	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-89	OXA-89	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-9	OXA-9	Beta-lactam			
+OXA-90	OXA-90	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-91	OXA-91	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-92	OXA-92	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-93	OXA-93	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-94	OXA-94	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-95	OXA-95	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-96	OXA-96	Beta-lactam	Class D Carbapenemase		OXA-58-like
+OXA-97	OXA-97	Beta-lactam	Class D Carbapenemase		OXA-58-like
+OXA-98	OXA-98	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-99	OXA-99	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-51-like
+OXA-SAR2	OXA-SAR2	Beta-lactam	Class D Carbapenemase		OXA-48-like
+OXA-SHE	OXA-SHE	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-55-like
+OXY-2-4	OXY-2-4	Beta-lactam			
+OXY-4-1	OXY-4-1	Beta-lactam			
+Shigella flexneri parC conferring resistance to fluoroquinolones-A85T	parC (A85T)	Fluoroquinolones			
+Escherichia coli parC conferring resistance to fluoroquinolone	parC (E. coli) 	Fluoroquinolone			
+Escherichia coli parC conferring resistance to fluoroquinolone-E84G	parC (E84G)	Fluoroquinolone			
+Haemophilus parainfluenzae parC conferring resistance to fluoroquinolones	parC (H. parainfluenzae)	Fluoroquinolone			
+Neisseria gonorrhoeae parC conferring resistance to fluoroquinolone	parC (N. gonorrhoeae)	Fluoroquinolone			
+Shigella flexneri parC conferring resistance to fluoroquinolones	parC (S. flexneri)	Fluoroquinolones			
+Escherichia coli parC conferring resistance to fluoroquinolone-S80I	parC (S80I)	Fluoroquinolone			
+Neisseria gonorrhoeae parC conferring resistance to fluoroquinolone-S87R	parC (S87R)	Fluoroquinolone			
+Pseudomonas aeruginosa parE conferring resistance to fluoroquinolones	parE (P. aeruginosa)	Fluoroquinolones			
+Staphylococcus aureus parE conferring resistance to fluoroquinolones	parE (S. aureus)	Fluoroquinolone			
+patA	patA	Multidrug Transporters and Regulators			
+Streptococcus pneumoniae PBP1a conferring resistance to amoxicillin	PBP1a (S. pneumoniae)	Beta-lactam			
+Neisseria meningititis PBP2 conferring resistance to beta-lactam-A510V	PBP2 (A510V)	Beta-Lactam			
+Neisseria meningititis PBP2 conferring resistance to beta-lactam-F504L	PBP2 (F504L)	Beta-Lactam			
+Neisseria meningititis PBP2 conferring resistance to beta-lactam	PBP2 (N. meningititis)	Beta-lactam			
+Streptococcus pneumoniae PBP2x conferring resistance to amoxicillin	PBP2x (S. pneumoniae)	Beta-lactam			
+PER-1	PER-1	Beta-lactam			
+PER-7	PER-7	Beta-lactam			
+phoP	phoP	Multidrug Transporters and Regulators			
+Klebsiella mutant PhoP conferring antibiotic resistance to colistin	PhoP (K. pneumoniae)	Colistin			
+phoQ	phoQ	Multidrug Transporters and Regulators			
+PmpM	pmpM	Multidrug Transporters and Regulators			
+pmrA	pmrA	Multidrug Transporters and Regulators			
+pmrB	pmrB	Polymixin			
+PmrC	pmrC	Polymixin			
+PmrE	pmrE	Polymixin			
+PmrF	pmrF	Polymixin			
+PoxB	PoxB	Beta-lactam	Class D Carbapenemase		OXA-50-like
+plasmid-encoded cat (pp-cat)	pp-cat	Phenicol			
+qacA	qacA	Multidrug Transporters and Regulators			
+qacH	qacH	Multidrug Transporters and Regulators			
+QnrA1	qnrA1	Quinolone			
+QnrA3	qnrA3	Quinolone			
+QnrB1	qnrB1	Quinolone			
+QnrB10	qnrB10	Quinolone			
+QnrB19	qnrB19	Quinolone			
+QnrB2	qnrB2	Quinolone			
+QnrB20	qnrB20	Quinolone			
+QnrB3	qnrB3	Quinolone			
+QnrB4	qnrB4	Quinolone			
+QnrB5	QnrB5	Quinolone			
+QnrB6	qnrB6	Quinolone			
+QnrB9	qnrB9	Quinolone			
+QnrD1	qnrD1	Quinolone			
+QnrS1	qnrS1	Quinolone			
+QnrS2	qnrS2	Quinolone			
+QnrS4	qnrS4	Quinolone			
+QnrVC4	qnrVC4	Quinolone			
+QnrVC6	qnrVC6	Quinolone			
+ramA	ramA	Multidrug Transporters and Regulators			
+ramR	ramR	Multidrug Transporters and Regulators			
+Klebsiella pneumoniae ramR mutants-A19V	ramR (A19V)	Multidrug Transporters and Regulators			
+Klebsiella pneumoniae ramR mutants	ramR (K. pneumoniae)	Multidrug Transporters and Regulators			
+rmtB	rmtB	Aminoglycoside			
+rmtF	rmtF	Aminoglycoside			
+rmtG	rmtG	Aminoglycoside			
+rmtH	rmtH	Aminoglycoside			
+robA	robA	Multidrug Transporters and Regulators			
+rosA	rosA	Multidrug Transporters and Regulators			
+rosB	rosB	Multidrug Transporters and Regulators			
+Mycobacterium tuberculosis rpoB mutants conferring resistance to rifampicin-D441V	rpoB (D441V)	Rifampicin			
+Mycobacterium tuberculosis rpoB mutants conferring resistance to rifampicin-D441Y	rpoB (D441Y)	Rifampicin			
+Escherichia coli rpoB mutants conferring resistance to rifampicin	rpoB (E.coli)	Rifampicin			
+Staphylococcus aureus rpoB mutants conferring resistance to rifampicin-H481N	rpoB (H481N)	Rifampicin			
+Mycobacterium tuberculosis rpoB mutants conferring resistance to rifampicin	rpoB (M. tuberculosis)	Rifampicin			
+Staphylococcus aureus rpoB mutants conferring resistance to rifampicin	rpoB (S. aureus)	Rifampicin			
+Mycobacterium tuberculosis rpsL mutations conferring resistance to Streptomycin	rpsL  (M. tuberculosis)	Streptomycin			
+salA	salA	Multidrug Transporters and Regulators			
+SAT-1	SAT-1	Streptothricin			
+SAT-4	SAT-4	Streptothricin			
+sav1866	sav1866	Multidrug Transporters and Regulators			
+sdiA	sdiA	Multidrug Transporters and Regulators			
+Sed1 beta-lactamase	sed-1	Beta-lactam			
+SHV-1	SHV-1	Beta-lactam			
+SHV-100	SHV-100	Beta-lactam			
+SHV-108	SHV-108	Beta-lactam			
+SHV-11	SHV-11	Beta-lactam			
+SHV-110	SHV-110	Beta-lactam			
+SHV-111	SHV-111	Beta-lactam			
+SHV-119	SHV-119	Beta-lactam			
+SHV-12	SHV-12	Beta-lactam			
+SHV-121	SHV-121	Beta-lactam			
+SHV-123	SHV-123	Beta-lactam			
+SHV-126	SHV-126	Beta-lactam			
+SHV-127	SHV-127	Beta-lactam			
+SHV-13	SHV-13	Beta-lactam			
+SHV-133	SHV-133	Beta-lactam			
+SHV-134	SHV-134	Beta-lactam			
+SHV-14	SHV-14	Beta-lactam			
+SHV-142	SHV-142	Beta-lactam			
+SHV-152	SHV-152	Beta-lactam			
+SHV-154	SHV-154	Beta-lactam			
+SHV-159	SHV-159	Beta-lactam			
+SHV-160	SHV-160	Beta-lactam			
+SHV-162	SHV-162	Beta-lactam			
+SHV-165	SHV-165	Beta-lactam			
+SHV-168	SHV-168	Beta-lactam			
+SHV-172	SHV-172	Beta-lactam			
+SHV-187	SHV-187	Beta-lactam			
+SHV-189	SHV-189	Beta-lactam			
+SHV-2	SHV-2	Beta-lactam			
+SHV-25	SHV-25	Beta-lactam			
+SHV-26	SHV-26	Beta-lactam			
+SHV-27	SHV-27	Beta-lactam			
+SHV-28	SHV-28	Beta-lactam			
+SHV-29	SHV-29	Beta-lactam			
+SHV-2A	SHV-2A	Beta-lactam			
+SHV-30	SHV-30	Beta-lactam			
+SHV-31	SHV-31	Beta-lactam			
+SHV-32	SHV-32	Beta-lactam			
+SHV-33	SHV-33	Beta-lactam			
+SHV-36	SHV-36	Beta-lactam			
+SHV-37	SHV-37	Beta-lactam			
+SHV-38	SHV-38	Beta-lactam			
+SHV-40	SHV-40	Beta-lactam			
+SHV-41	SHV-41	Beta-lactam			
+SHV-42	SHV-42	Beta-lactam			
+SHV-44	SHV-44	Beta-lactam			
+SHV-48	SHV-48	Beta-lactam			
+SHV-5	SHV-5	Beta-lactam			
+SHV-52	SHV-52	Beta-lactam			
+SHV-55	SHV-55	Beta-lactam			
+SHV-60	SHV-60	Beta-lactam			
+SHV-61	SHV-61	Beta-lactam			
+SHV-62	SHV-62	Beta-lactam			
+SHV-63	SHV-63	Beta-lactam			
+SHV-64	SHV-64	Beta-lactam			
+SHV-65	SHV-65	Beta-lactam			
+SHV-66	SHV-66	Beta-lactam			
+SHV-67	SHV-67	Beta-lactam			
+SHV-7	SHV-7	Beta-lactam			
+SHV-71	SHV-71	Beta-lactam			
+SHV-75	SHV-75	Beta-lactam			
+SHV-76	SHV-76	Beta-lactam			
+SHV-77	SHV-77	Beta-lactam			
+SHV-80	SHV-80	Beta-lactam			
+SHV-84	SHV-84	Beta-lactam			
+SHV-86	SHV-86	Beta-lactam			
+SHV-94	SHV-94	Beta-lactam			
+smeA	smeA	Multidrug Transporters and Regulators			
+smeD	smeD	Multidrug Transporters and Regulators			
+Escherichia coli soxR with mutation conferring antibiotic resistance	soxR (E.coli)	Multidrug Transporters and Regulators			
+Escherichia coli soxS with mutation conferring antibiotic resistance-A12S	soxS (A12S)	Multidrug Transporters and Regulators			
+Escherichia coli soxS with mutation conferring antibiotic resistance	soxS (E. coli)	Multidrug Transporters and Regulators			
+sul1	sul1	Sulfonamide			
+sul2	sul2	Sulfonamide			
+sul3	sul3	Sulfonamide			
+TaeA	taeA	Multidrug Transporters and Regulators			
+TEM-1	TEM-1	Beta-lactam			
+TEM-10	TEM-10	Beta-lactam			
+TEM-110	TEM-110	Beta-lactam			
+TEM-116	TEM-116	Beta-lactam			
+TEM-122	TEM-122	Beta-lactam			
+TEM-12	TEM-122	Beta-lactam			
+TEM-135	TEM-135	Beta-lactam			
+TEM-15	TEM-15	Beta-lactam			
+TEM-163	TEM-163	Beta-lactam			
+TEM-169	TEM-169	Beta-lactam			
+TEM-2	TEM-2	Beta-lactam			
+TEM-206	TEM-206	Beta-lactam			
+TEM-213	TEM-213	Beta-lactam			
+TEM-215	TEM-215	Beta-lactam			
+TEM-30	TEM-30	Beta-lactam			
+TEM-40	TEM-40	Beta-lactam			
+TEM-47	TEM-47	Beta-lactam			
+TEM-70	TEM-70	Beta-lactam			
+TEM-84	TEM-84	Beta-lactam			
+tet32	tet32	Tetracycline			
+tet38	tet38	Tetracycline			
+tet(38)	tet38	Tetracycline			
+tet(39)	tet39	Tetracycline			
+tet(A)	tetA	Tetracycline			
+tet(C)	tetC	Tetracycline			
+tet(D)	tetD	Tetracycline			
+tet(E)	tetE	Tetracycline			
+tet(G)	tetG	Tetracycline			
+tet(H)	tetH	Tetracycline			
+tet(J)	tetJ	Tetracycline			
+tet(K)	tetK	Tetracycline			
+tet(L)	tetL	Tetracycline			
+tetM	tetM	Tetracycline			
+tetW	tetW	Tetracycline			
+tetX	tetX	Tetracycline			
+TLA-3	TLA-3	Beta-lactam			
+TolC	tolC	Multidrug Transporters and Regulators			
+TriB	triB	Multidrug Transporters and Regulators			
+TriC	triC	Multidrug Transporters and Regulators			
+Escherichia coli UhpT with mutation conferring resistance to fosfomycin	uhpT (E. coli)	Multidrug Transporters and Regulators			
+Escherichia coli UhpT with mutation conferring resistance to fosfomycin-E350Q	UhpT (E350Q)	Fosfomycin			
+vanG	vanG	Glycopeptides			
+vanL	vanL	Glycopeptides			
+vatF	vatF	Streptogramin			
+VEB-1	VEB-1	Beta-lactam			
+VEB-3	VEB-3	Beta-lactam			
+VEB-5	VEB-5	Beta-lactam			
+VEB-9	VEB-9	Beta-lactam			
+vgaC	vgaC	Multidrug Transporters and Regulators			
+VIM-1	VIM-1	Beta-lactam	Class B Carbapenemase		
+VIM-19	VIM-19	Beta-lactam	Class B Carbapenemase		
+VIM-2	VIM-2	Beta-lactam	Class B Carbapenemase		
+VIM-24	VIM-24	Beta-lactam	Class B Carbapenemase		
+VIM-27	VIM-27	Beta-lactam	Class B Carbapenemase		
+VIM-4	ViM-4	Beta-lactam	Class B Carbapenemase		
+ykkd	ykkD	Multidrug Transporters and Regulators			
+YojI	yojI	Multidrug Transporters and Regulators			
+SIM-1 beta-lactamase	SIM-1	Beta-lactam	Class B Carbapenemase		
+efmA	efmA	Multidrug Transporters and Regulators			
+mphB	mphB	Macrolide			
+Enterobacter aerogenes omp36 with mutation	omp36_(E._aerogenes)	Multidrug Transporters and Regulators			
+EreA	ereA	Erithromycin			
+Escherichia coli parE conferring resistance to fluoroquinolones	parE_(E._coli)	Fluoroquinolone			
+OXY-1-1	OXY-1-1	Beta-lactam			
+OXY-1-2	OXY-1-2	Beta-lactam			
+OXY-1-3	OXY-1-3	Beta-lactam			
+OXY-1-4	OXY-1-4	Beta-lactam			
+OXY-2-1	OXY-2-1	Beta-lactam			
+OXY-2-10	OXY-2-10	Beta-lactam			
+OXY-2-2	OXY-2-2	Beta-lactam			
+OXY-2-7	OXY-2-7	Beta-lactam			
+OXY-2-8	OXY-2-8	Beta-lactam			
+OXY-5-1	OXY-5-1	Beta-lactam			
+OXY-5-2	OXY-5-2	Beta-lactam			
+OXY-6-1	OXY-6-1	Beta-lactam			
+OXY-6-2	OXY-6-2	Beta-lactam			
+OXY-6-4	OXY-6-4	Beta-lactam			
+SHV-82	SHV-82	Beta-lactam			
+SHV-93	SHV-93	Beta-lactam			
+SRT-2	SRT-2	Beta-lactam			
+TEM-133	TEM-133	Beta-lactam			
+TEM-166	TEM-166	Beta-lactam			
+TEM-24	TEM-24	Beta-lactam			
+TEM-3	TEM-3	Beta-lactam			
+aadA4	aadA4	Aminoglycoside			
+tet(30)	tet30	Tetracycline			
+tet(41)	tet41	Tetracycline			
+y56 beta-lactamase	y56 beta-lactamase	Beta-lactam			
+ANT(6)-Ib	ANT(6)-Ib	Aminoglycoside			
+BahA	BahA	Bacitracin			
+CMY-112	CMY-112	Beta-lactam			
+CMY-82	CMY-82	Beta-lactam			
+CblA-1	CblA-1	Beta-lactam			
+CfxA2	CfxA2	Beta-lactam			
+CfxA6	CfxA6	Beta-lactam			
+Clostridium perfringens mprF	mprF_(C._perfringens)	Multidrug Transporters and Regulators			
+ErmF	ErmF	Macrolide/Lincosamide/Streptogramin			
+Escherichia coli gyrB conferring resistance to aminocoumarin	gyrB_(E._coli)	Aminocoumarin			
+LlmA 23S ribosomal RNA methyltransferase	LlmA 23S ribosomal RNA methyltransferase	Lincosamide			
+RlmA(II)	RlmA(II)	Macrolide/Lincosamide			
+Staphylococcus aureus gyrB conferring resistance to aminocoumarin	gyrB_(S._aureus)	Aminocoumarin			
+Staphylococcus aureus rpoC conferring resistance to daptomycin	rpoC_(S._aureus)	Daptomycin			
+Streptococcus agalactiae mprF	mprF_(S._agalactiae)	Multidrug Transporters and Regulators			
+Streptomyces rishiriensis parY mutant conferring resistance to aminocoumarin	parY_(S._rishiriensis)	Aminocoumarin			
+Ureaplasma urealyticum  gyrB conferring resistance to fluoroquinolone	gyrB_(U._urealyticum)	Fluoroquinolone			
+amrB	amrB	Multidrug Transporters and Regulators			
+blaR1	blaR1	Beta-lactam			
+catD	catD	Phenicol			
+cepA beta-lactamase	cepA	Beta-lactam			
+cfrA	cfrA	Multidrug Transporters and Regulators			
+clbA	clbA	Multidrug Transporters and Regulators			
+fusB	fusB	Fusidic Acid			
+lnuC	lnuC	Lincosamide			
+lsaB	lsaB	Multidrug Transporters and Regulators			
+lsaE	lsaE	Multidrug Transporters and Regulators			
+mecB	mecB	Beta-lactam			
+mecC	mecC	Beta-lactam			
+mefA	mefA	Macrolide			
+mefC	mefC	Macrolide			
+mefE	mefE	Macrolide			
+patB	patB	Fluoroquinolone			
+smeE	smeE	Multidrug Transporters and Regulators			
+tet(40)	tet40	Tetracycline			
+tet(42)	tet42	Tetracycline			
+tet44	tet44	Tetracycline			
+tetA(46)	tetA(46)	Tetracycline			
+tetB(46)	tetB(46)	Tetracycline			
+tetO	tetO	Tetracycline			
+tetQ	tetQ	Tetracycline			
+vanRG	vanRG	Glycopeptides			
+vanSG	vanSG	Glycopeptides			
+vanTG	vanTG	Glycopeptides			
+vanWG	vanWG	Glycopeptides			
+vanXM	vanXM	Glycopeptides			
+vanXYG	vanXYG	Glycopeptides			
+vanYB	vanYB	Glycopeptides			
+vanYG1	vanYG1	Glycopeptides			
