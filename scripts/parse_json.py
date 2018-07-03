@@ -24,6 +24,7 @@ def get_json_files(target_genomes):
 def generate_all_hits(genome_list):
     pwd = os.getcwd()
     hits_dict = defaultdict(lambda: defaultdict(dict))
+    contig_dict = defaultdict(lambda: defaultdict(dict))
     for i in genome_list:
         dir_name = i.split('.json')[0]
         if not os.path.exists(pwd + '/AMR_STATISTICS/' + dir_name):
@@ -36,20 +37,25 @@ def generate_all_hits(genome_list):
             count = 0
             if k != '_metadata':
                 best_hit = {} #Best Hit for that Contig, not AMR Gene in that Genome
+                contig_hit = {}
                 for a,b in v.items():
                     if count == 0:
                         try:
                             best_hit[k] = [b['ARO_name'].encode('utf-8'), b['perc_identity'], b['orf_dna_sequence'].encode('utf-8'), b['bit-score']]
+                            contig_hit[b['orf_From']] = {b["ARO_name"] : b['perc_identity']}
                         except:
-							print k
+							#print k
+                            pass
                         count = count + 1
                     else:
                         if b['bit-score'] > best_hit[k][-1]:
                             best_hit[k] = [b['ARO_name'].encode('utf-8'), b['perc_identity'], b['orf_dna_sequence'].encode('utf-8'), b['bit-score']]
+                            contig_hit[b['orf_From']] = {b["ARO_name"] : b['perc_identity']}
                         else:
                             pass
                 hits_dict[dir_name].update(best_hit)
-    return hits_dict
+                contig_dict[dir_name].update(contig_hit)
+    return hits_dict, contig_dict
 
 def generate_best_hits(all_hits_dictionary):
     hits_dict = defaultdict(dict)
@@ -80,6 +86,14 @@ def write_best_hits(best_hits_dict):
             for a,b in v.items():
                 f.write(">" + a + '_' + str(b['Percent Identity']) + '\n')
                 f.write(b['Sequence'].strip() + '\n')
+
+def write_contig_hits(contig_hits_dict):
+    for k,v in contig_hits_dict.items():
+        with open("AMR_STATISTICS/" + k + "/query_hits.txt", 'w') as f:
+            for contig, hit_info in v.items():
+                for hit, perc_id in hit_info.items():
+                    f.write("{}\t{}\t{}\n".format(contig, hit, perc_id))
+
 
 def top_hits_generator(best_hits):
     top_hits = defaultdict(lambda: defaultdict(dict))
@@ -233,10 +247,11 @@ def main():
     directory = 'AMR_STATISTICS/'
     make_dir(directory)
     genomes_included = get_json_files(target_genomes)
-    all_hits = generate_all_hits(genomes_included)
+    all_hits, contig_hits = generate_all_hits(genomes_included)
     best_hits = generate_best_hits(all_hits)
     write_all_hits(all_hits)
     write_best_hits(best_hits)
+    write_contig_hits(contig_hits)
 
     top_hits_dict = top_hits_generator(best_hits)
     mapping_dict = create_mapping_dict(mapping_file)
