@@ -92,7 +92,7 @@ amrb	amrB	Multidrug Transporters and Regulators
 ANT(2'')-Ia	ANT(2'')-Ia	Aminoglycoside			
 ANT(3'')-IIa	ANT(3'')-IIa	Aminoglycoside			
 ANT(3'')-IIb	ANT(3'')-IIb	Aminoglycoside			
-ANT(4')-Ib	ANT(4')-Ib	Amingolycosides			
+ANT(4')-Ib	ANT(4')-Ib	Aminoglycoside			
 ANT(6)-Ia	ANT(6)-Ia	Aminoglycoside			
 ANT(9)-Ia	ANT(9)-Ia	Aminoglycoside			
 APH(2'')-IIa	APH(2'')-IIa	Aminoglycoside			
@@ -255,17 +255,17 @@ GES-5	GES-5	Beta-lactam	Class A Carbapenemase
 Escherichia coli GlpT with mutation conferring resistance to fosfomycin	glpT (E. coli)	Fosfomycin			
 Escherichia coli GlpT with mutation conferring resistance to fosfomycin-E448K	GlpT (E48K)	Fosfomycin			
 Pseudomonas aeruginosa gyrA and parC conferring resistance to fluoroquinolone	gyrA & parC (P. aeruginosa)	Fluoroquinolone			
-Propionibacterium acnes gyrA conferring resistance to fluoroquinolones-D105G	gyrA (D105G)	Fluoroquinolones			
-Neisseria gonorrhoeae gyrA conferring resistance to fluoroquinolones-D95N	gyrA (D95N)	Fluoroquinolones			
+Propionibacterium acnes gyrA conferring resistance to fluoroquinolones-D105G	gyrA (D105G)	Fluoroquinolone			
+Neisseria gonorrhoeae gyrA conferring resistance to fluoroquinolones-D95N	gyrA (D95N)	Fluoroquinolone			
 Escherichia coli gyrA conferring resistance to fluoroquinolones	gyrA (E. coli)	Fluoroquinolone			
-Staphylococcus aureus gyrA conferring resistance to fluoroquinolones-E88A	gyrA (E88A)	Fluoroquinolones			
+Staphylococcus aureus gyrA conferring resistance to fluoroquinolones-E88A	gyrA (E88A)	Fluoroquinolone			
 Haemophilus parainfluenzae gyrA conferring resistance to fluoroquinolones	gyrA (H. parainfluenzae)	Fluoroquinolone			
 Mycobacterium tuberculosis gyrA conferring resistance to fluoroquinolones	gyrA (M. tuberculosis)	Fluoroquinolone			
 Propionibacterium acnes gyrA conferring resistance to fluoroquinolones	gyrA (P. acnes)	Fluoroquinolone			
 Pseudomonas aeruginosa gyrA conferring resistance to fluoroquinolones	gyrA (P. aeruginosa)	Fluoroquinolone			
 Staphylococcus aureus gyrA conferring resistance to fluoroquinolones	gyrA (S. aureus)	Fluoroquinolone			
 Salmonella enterica gyrA conferring resistance to fluoroquinolones	gyrA (S. enterica)	Fluoroquinolone			
-Propionibacterium acnes gyrA conferring resistance to fluoroquinolones-S101L	gyrA (S101L)	Fluoroquinolones			
+Propionibacterium acnes gyrA conferring resistance to fluoroquinolones-S101L	gyrA (S101L)	Fluoroquinolone			
 Mycobacterium tuberculosis gyrB mutant conferring resistance to fluoroquinolone	gyrB  (M. tuberculosis)	Fluoroquinolone			
 Salmonella serovars gyrB conferring resistance to fluoroquinolone-E466D	gyrB (E466D)	Fluoroquinolone			
 Mycobacterium leprae gyrB conferring resistance to fluoroquinolone	gyrB (M. leprae	Fluoroquinolone			
@@ -613,15 +613,15 @@ OXA-SAR2	OXA-SAR2	Beta-lactam	Class D Carbapenemase		OXA-48-like
 OXA-SHE	OXA-SHE	Beta-lactam	Class D Carbapenemase	Intrinsic	OXA-55-like
 OXY-2-4	OXY-2-4	Beta-lactam			
 OXY-4-1	OXY-4-1	Beta-lactam			
-Shigella flexneri parC conferring resistance to fluoroquinolones-A85T	parC (A85T)	Fluoroquinolones			
+Shigella flexneri parC conferring resistance to fluoroquinolones-A85T	parC (A85T)	Fluoroquinolone			
 Escherichia coli parC conferring resistance to fluoroquinolone	parC (E. coli) 	Fluoroquinolone			
 Escherichia coli parC conferring resistance to fluoroquinolone-E84G	parC (E84G)	Fluoroquinolone			
 Haemophilus parainfluenzae parC conferring resistance to fluoroquinolones	parC (H. parainfluenzae)	Fluoroquinolone			
 Neisseria gonorrhoeae parC conferring resistance to fluoroquinolone	parC (N. gonorrhoeae)	Fluoroquinolone			
-Shigella flexneri parC conferring resistance to fluoroquinolones	parC (S. flexneri)	Fluoroquinolones			
+Shigella flexneri parC conferring resistance to fluoroquinolones	parC (S. flexneri)	Fluoroquinolone			
 Escherichia coli parC conferring resistance to fluoroquinolone-S80I	parC (S80I)	Fluoroquinolone			
 Neisseria gonorrhoeae parC conferring resistance to fluoroquinolone-S87R	parC (S87R)	Fluoroquinolone			
-Pseudomonas aeruginosa parE conferring resistance to fluoroquinolones	parE (P. aeruginosa)	Fluoroquinolones			
+Pseudomonas aeruginosa parE conferring resistance to fluoroquinolones	parE (P. aeruginosa)	Fluoroquinolone			
 Staphylococcus aureus parE conferring resistance to fluoroquinolones	parE (S. aureus)	Fluoroquinolone			
 patA	patA	Multidrug Transporters and Regulators			
 Streptococcus pneumoniae PBP1a conferring resistance to amoxicillin	PBP1a (S. pneumoniae)	Beta-lactam			
@@ -802,8 +802,8 @@ TriB	triB	Multidrug Transporters and Regulators
 TriC	triC	Multidrug Transporters and Regulators			
 Escherichia coli UhpT with mutation conferring resistance to fosfomycin	uhpT (E. coli)	Multidrug Transporters and Regulators			
 Escherichia coli UhpT with mutation conferring resistance to fosfomycin-E350Q	UhpT (E350Q)	Fosfomycin			
-vanG	vanG	Glycopeptides			
-vanL	vanL	Glycopeptides			
+vanG	vanG	Glycopeptide			
+vanL	vanL	Glycopeptide			
 vatF	vatF	Streptogramin			
 VEB-1	VEB-1	Beta-lactam			
 VEB-3	VEB-3	Beta-lactam			
@@ -890,11 +890,11 @@ tetA(46)	tetA(46)	Tetracycline
 tetB(46)	tetB(46)	Tetracycline			
 tetO	tetO	Tetracycline			
 tetQ	tetQ	Tetracycline			
-vanRG	vanRG	Glycopeptides			
-vanSG	vanSG	Glycopeptides			
-vanTG	vanTG	Glycopeptides			
-vanWG	vanWG	Glycopeptides			
-vanXM	vanXM	Glycopeptides			
-vanXYG	vanXYG	Glycopeptides			
-vanYB	vanYB	Glycopeptides			
-vanYG1	vanYG1	Glycopeptides			
+vanRG	vanRG	Glycopeptide			
+vanSG	vanSG	Glycopeptide			
+vanTG	vanTG	Glycopeptide			
+vanWG	vanWG	Glycopeptide			
+vanXM	vanXM	Glycopeptide			
+vanXYG	vanXYG	Glycopeptide			
+vanYB	vanYB	Glycopeptide			
+vanYG1	vanYG1	Glycopeptide			
