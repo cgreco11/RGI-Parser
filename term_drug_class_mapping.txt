@@ -898,3 +898,18 @@ vanXM	vanXM	Glycopeptide
 vanXYG	vanXYG	Glycopeptide			
 vanYB	vanYB	Glycopeptide			
 vanYG1	vanYG1	Glycopeptide			
+ACT-28 	ACT-28 	Beta-lactam			
+CMY-34 	CMY-34 	Beta-lactam			
+CMY-35 	CMY-35 	Beta-lactam			
+CfxA3  	CfxA3  	Beta-lactam			
+CfxA5  	CfxA5  	Beta-lactam			
+ErmQ   	ErmQ   	Macrolide			
+OpmB   	OpmB   	Multidrug Transporters and Regulators			
+Shigella flexneri gyrA conferring resistance to fluoroquinolones	gyr_(S._flexneri)	Fluoroquinolone			
+dfrG   	dfrG   	Trimethoprim			
+oleR   	oleR   	Macrolide			
+tet(45)	tet45  	Tetracycline			
+lmrP   	lmrP   	Multidrug Transporters and Regulators			
+Brucella suis mprF	mprf_(B._suis)	Multidrug Transporters and Regulators			
+LRA-2  	LRA-2  	Beta-lactam			
+OprN   	oprN   	Multidrug Transporters and Regulators			
